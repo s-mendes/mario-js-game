@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script type="text/javascript" src="./scriptscore.js"></script>
+    <link rel="stylesheet" href="assets/stylesheets/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Learning to multiply</title>
+</head>
+
+<body onload="genQuestion();">
+<h1>Learning to multiply</h1>
+<form name="myForm" id="myForm" action="#">
+<label>What is...</label>
+<input id="question" name="question" type="text" />
+<br>
+<label>My answer is...</label>
+<input name="answer" id="answer" type="text" />
+<br>
+<input class="button" name="Check my answer..." type="button" value="Check my answer..." onclick="buttonPressed()" />
+</form>
+    <div class="score-board">
+  <div class="player">
+      <h4>Your score</h4>
+      <div class="score-box">
+         0 
+      </div>
+  </div>
+        </div>
+</body>
+</html>
