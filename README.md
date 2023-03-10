@@ -10,6 +10,7 @@
 <p>Implementações futuras: </p>
 <ul>
   <li>Utilizar localstorage e registrar recorde do jogador.</li>
-<ul>
+</ul>
+
 <h1>Acesso a Aplicação</h1>
 Link: 
