@@ -1,5 +1,5 @@
-# Mario Game JS
-##Tecnologias Utilizadas<
+# Mario Game JS #
+##Tecnologias Utilizadas##
 <ul>
   <li>HTML</li>
   <li>CSS</li>
