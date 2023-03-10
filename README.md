@@ -10,6 +10,8 @@
 Criar um mini-game que apertando qualquer tecla, o personagem irá pular os obstáculos e contabilizar os pontos.
 Implementações futuras:
 
+- Tela inicial para iniciar o jogo;
+- Opção para reiniciar após o game over;
 - Utilizar localstorage e registrar recorde do jogador.
 
 
