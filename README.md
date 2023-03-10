@@ -13,4 +13,4 @@
 </ul>
 
 <h1>Acesso a Aplicação</h1>
-<p>Link: <a href="https://sm-mariojs.netlify.app/mario.html" target="_blank">https://sm-mariojs.netlify.app/mario.html</a></p>
+<p>Link: <a href="https://sm-mariojs.netlify.app/mario.html" target="_blank" rel="noopener noreferrer">https://sm-mariojs.netlify.app/mario.html</a></p>
